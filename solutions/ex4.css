@@ -1,0 +1,16 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-content: space-around;
+    gap: 10px;
+    height: 400px;
+}
+
+.img-box {
+    flex-basis: 30%;
+    background: lightseagreen;
+    text-align: center;
+    padding: 40px 0;
+    border: 2px solid #333;
+}

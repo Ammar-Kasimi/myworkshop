@@ -1,0 +1,18 @@
+.pricing {
+    display: flex;
+    align-items: stretch;
+    gap: 10px;
+}
+
+.plan {
+    flex: 1 1 50px;
+    background: lightgray;
+    border: 2px solid #000;
+    text-align: center;
+    padding: 20px;
+}
+
+.featured {
+    flex-grow: 2;
+    background: lightgreen;
+}
