@@ -1,10 +1,10 @@
-.pricing {
+.container {
     display: flex;
     align-items: stretch;
     gap: 10px;
 }
 
-.plan {
+.box {
     flex: 1 1 50px;
     background: lightgray;
     border: 2px solid #000;

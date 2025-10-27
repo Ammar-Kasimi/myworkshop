@@ -1,0 +1,15 @@
+1. Exercise 1: Create a row of 4 cards that wrap gracefully when the window shrinks.
+
+2. Exercise 2: Create a layout with a fixed sidebar and a flexible main content area.
+
+3. Exercise 3: Make three boxes that have equal height, with one box wider than the others.
+
+4. Exercise 4: Create a responsive gallery with multiple square boxes that wrap in rows and maintain even spacing.
+
+5. Exercise 5: Build a navigation bar with a logo, a search area, and a profile section, where the search area adjusts its size dynamically.
+
+6. Exercise 6: Reorder four cards so that the fourth card appears first, and make one card align differently than the others vertically.
+
+7. Exercise 7: Create a hero section split into two areas: one for text and one for an image, with the content centered within each section.
+
+8. Exercise 8: Build a dashboard layout with a sidebar, a toolbar, and multiple content cards that wrap evenly in the main area.
